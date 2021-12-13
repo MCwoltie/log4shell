@@ -448,7 +448,7 @@ NCSC-NL will use the following status:
 | Microsoft | Kafka Connect for Azure Cosmo DB | < 1.2.1 | Fix      |                                                                                                           | [source](https://github.com/microsoft/kafka-connect-cosmosdb/blob/0f5d0c9dbf2812400bb480d1ff0672dfa6bb56f0/CHANGELOG.md)                                                                                                                                                   |
 | Minecraft | Java edition | <1.18.1 | Fix | Mitigations available for earlier versions| [source](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition)
 | MISP | MISP | All | Not vuln | |[source](https://twitter.com/MISPProject/status/1470051242038673412) |
-
+| microfocus | Filr | Unknown | Investigation|| [source](https://portal.microfocus.com/s/article/KM000003003?language=en_US) | 
 ### N
 | Supplier           | Product                                                            | Version  |    Status     | Notes                                          |                                                                                                            Links |
 |--------------------|--------------------------------------------------------------------|:--------:|:-------------:|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------:|
